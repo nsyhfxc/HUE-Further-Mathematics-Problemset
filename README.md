@@ -1,2 +1,5 @@
 # HUE-Further-Mathematics-Problemset
 这里记录了我整理的高等数学A课程的题目集(LaTeX)
+
+
+#仓库中的pdf文件是编译后的成品文档,你可以直接下载后查看,zip文件包含了这个项目所有的源码和LaTeX代码,如果想要修改文档的内容,也可下载
